@@ -1,0 +1,3 @@
+monday class
+ 
+cd cocimnts , git init
